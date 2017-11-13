@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+
+<html>
+  
+  <head>
+    <title>Out of this World</title>
+  </head>
+
+  <body>
+    <h1> Here's a cool pic from outer space</h1>
+    <br> 
+    <img src = {{pic}}>
+    <h3> And some interesting info about it...</h3>
+    <p text-align: center>
+      {{info}}
+    </p>
+  </body>
+
+</html>
